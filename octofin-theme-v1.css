@@ -1,11 +1,7 @@
 
 
-html,
-.nowPlayingPlaylist,
-.nowPlayingContextMenu,
-.backgroundContainer:not(.withBackdrop),
-.backgroundContainer:not(.backgroundContainer-transparent),
-.backdropContainer {
+
+.backgroundContainer {
     background-color: #000000;
     background: ;
 }
